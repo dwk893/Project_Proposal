@@ -1,0 +1,97 @@
+body
+{
+    font:12px sans-serif;
+    color:black;
+    text-align:center;
+    padding:35px;
+}
+  
+form,p,span
+{
+    margin:0;
+    padding:0;
+}
+  
+input
+{
+    font:12px sans-serif;
+}
+  
+a
+{
+    color:royalblue;
+    text-decoration:none;
+}
+  
+a:hover
+{
+    text-decoration:underline;
+}
+  
+#wrap,#loginform
+{
+    margin:0 auto;
+    padding-bottom:25px;
+    background:rgb(255,230,242);
+    width:700px;
+    border:2px solid rgb(255,149,202);
+}
+  
+#loginform
+{
+    padding-top:18px;
+}
+  
+#loginform p
+{
+    margin:5px;
+}
+  
+#chatbox
+{
+    text-align:left;
+    margin:0 auto;
+    margin-bottom:25px;
+    padding:10px;
+    background:#fff;
+    height:480px;
+    width:640px;
+    border:2px solid rgb(255,149,202);
+    overflow:auto;
+}
+  
+#usermsg
+{
+    width:612px;
+    border:2px solid rgb(255,149,202);
+}
+  
+#submit
+{
+    width:60px;
+}
+  
+.error
+{
+    color: #ff0000;
+}
+  
+#menu
+{
+    padding:12.5px 25px 12.5px 25px;
+}
+  
+.welcome
+{
+    float:left;
+}
+  
+.logout
+{
+    float:right;
+}
+  
+.msgln
+{
+    margin:0 0 2px 0;
+}
